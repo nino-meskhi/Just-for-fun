@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(233, 233, 233);
+    box-shadow: 4px 5px 8px #a0a0a0a6;
+    transition: transform .5s ease;
+}
+header:hover {
+    transform: scale(1.01);
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+}
+.firstli {
+    display: inline-block;
+    margin: 20px;
+}
